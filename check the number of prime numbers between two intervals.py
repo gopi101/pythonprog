@@ -6,4 +6,4 @@ for num in range(num1,num2 + 1):
            if (num % i) == 0:
                break
        else:
-           print(num)
+           print("\t ",num)
