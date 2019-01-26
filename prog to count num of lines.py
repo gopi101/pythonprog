@@ -1,4 +1,2 @@
-a=input()
-a=a.split(" ")
-a="".join(a)
-print(len(a))
+name=str(raw_input("enter the name:"))
+print(name.count('.')+int(1))
