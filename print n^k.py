@@ -1,4 +1,4 @@
-num1=int(input())
-num2=int(input())
-num3=num1**num2
-print(num3)
+m=int(input())
+n=int(input())
+a=m**n
+print(a)
