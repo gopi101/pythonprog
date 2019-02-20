@@ -1,4 +1,4 @@
-x=2
-y=2
-z=x**2
-print(z)
+a=2
+b=3
+c=a**b
+print(c)
